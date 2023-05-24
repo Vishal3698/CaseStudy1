@@ -30,7 +30,7 @@ Business has set a clear goal: Design marketing strategies aimed at converting c
 - Station name "HQ QR" needs to be removed as it is for QA testing
 
 
-## Data Cleaning
+### Data Cleaning
 - New columns will be added foe better analysis
     - Extracting date column from started_at
     - Extracting day, month and year from the date column
@@ -39,7 +39,7 @@ Business has set a clear goal: Design marketing strategies aimed at converting c
 - Calculate ride_length to identify trends in how long riders use the bikes
 
 
-## Data Analysis Stage:
+### Data Analysis Stage:
 - ride_length attribute will be a main focus for this analysis
 - We will aggregate the data to find out mean, max and min of ride_length by member type (Casual or Member)
 - We will identify how many times bike services are used by month or by day of the week
